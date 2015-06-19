@@ -1,0 +1,8 @@
+rhodes_path='/Users/yosemite/.rvm/gems/ruby-1.9.3-p551/gems/rhodes-5.0.38'
+app_version='1.0'
+app_name='artThroughoutHistory'
+reload_app_changes=0
+debug_port=
+debug_host='127.0.0.1'
+platform='iphone'
+ext_path=/Users/yosemite/.rvm/gems/ruby-1.9.3-p551/gems/rhodes-5.0.38/lib/commonAPI/coreapi;/Users/yosemite/.rvm/gems/ruby-1.9.3-p551/gems/rhodes-5.0.38/lib/extensions/json;/Users/yosemite/.rvm/gems/ruby-1.9.3-p551/gems/rhoconnect-client-5.1.0.beta.17/lib/../ext/rhoconnect-client;/Users/yosemite/.rvm/gems/ruby-1.9.3-p551/gems/rhodes-5.0.38/lib/commonAPI/audiocapture;/Users/yosemite/.rvm/gems/ruby-1.9.3-p551/gems/rhoelements-5.1.0.beta.17/libs/barcode;/Users/yosemite/.rvm/gems/ruby-1.9.3-p551/gems/rhoelements-5.1.0.beta.17/libs/signature;/Users/yosemite/.rvm/gems/ruby-1.9.3-p551/gems/rhoelements-5.1.0.beta.17/libs/indicators;/Users/yosemite/.rvm/gems/ruby-1.9.3-p551/gems/rhoelements-5.1.0.beta.17/libs/hardwarekeys;/Users/yosemite/.rvm/gems/ruby-1.9.3-p551/gems/rhodes-5.0.38/lib/commonAPI/sensor;

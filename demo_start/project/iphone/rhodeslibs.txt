@@ -1,0 +1,8 @@
+/Users/yosemite/workspace/artThroughoutHistory/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libCoreAPI.a
+/Users/yosemite/workspace/artThroughoutHistory/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libRhoconnect-client.a
+/Users/yosemite/workspace/artThroughoutHistory/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libAudioCapture.a
+/Users/yosemite/workspace/artThroughoutHistory/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libBarcode.a
+/Users/yosemite/workspace/artThroughoutHistory/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libSignature.a
+/Users/yosemite/workspace/artThroughoutHistory/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libIndicators.a
+/Users/yosemite/workspace/artThroughoutHistory/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libHardwareKeys.a
+/Users/yosemite/workspace/artThroughoutHistory/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libSensor.a

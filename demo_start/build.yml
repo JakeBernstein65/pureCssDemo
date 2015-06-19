@@ -1,0 +1,28 @@
+---
+sdkversion: 5.0.0
+name: artThroughoutHistory
+version: '1.0'
+vendor: rhomobile
+build: debug
+applog: rholog.txt
+iphone:
+  configuration: Release
+  sdk: iphonesimulator8.3
+  provisionprofile: ''
+  codesignidentity: iPhone Developer
+  entitlements: ''
+  BundleIdentifier: com.rhomobile.artthroughouthistory
+  BundleURLScheme: artthroughouthistory
+  production:
+    ipa_itunesartwork_image: ./production/iTunesArtwork.png
+wp8:
+  productid: 760284a0-f8e7-0132-c88e-60f8470f025a
+android:
+  manifest_template: AndroidManifest.erb
+  version: 2.3.3
+  logcatFilter: APP:I StrictMode:I DEBUG:I *:E
+wm: ''
+extensions:
+- rhoconnect-client
+app_type: rhoelements
+capabilities: []
