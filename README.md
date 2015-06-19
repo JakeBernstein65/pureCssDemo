@@ -13,6 +13,6 @@ The only files we will are adding in our RhoMobile project are:
 
 * index.html  
 * css/main.css  
-*js/main.jss  
+* js/main.jss  
 
 Some of the photos are from Wikimedia.org and require you to have wifi connected and to use a device, computer, or iOS simulator to view them.
