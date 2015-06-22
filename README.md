@@ -1,4 +1,4 @@
-# Art Through History with Pure.CSS  
+# Art Throughout History with Pure.CSS  
 
 pureCssDemo is a basic application that demonstrates the simplicity and effectiveness of [Pure.CSS](http://purecss.io/) with RhoMobile.  
 
